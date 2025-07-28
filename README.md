@@ -1,1 +1,1 @@
-# media-bias-detector
+# The Media Bias Detector: A Framework for Annotating and Analyzing the News at Scale
